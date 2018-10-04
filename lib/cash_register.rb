@@ -58,5 +58,5 @@ class CashRegister
    @total -= @last_transaction_amount
   end
 
-    
+
   end
