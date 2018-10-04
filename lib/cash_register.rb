@@ -1,4 +1,4 @@
 class Cash_Register
-   attr_accessor :items, :quantities, :prices
+   attr_accessor :items,
 
 end
